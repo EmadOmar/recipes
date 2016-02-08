@@ -8,7 +8,7 @@ Ingredients:
  - 2 eggs
  - some new ingredient
  - 1 cup milk (conflict)
- - 1/2 cup vegetable oil (Making conflict)
+ - 3/4 cup vegetable oil (Making conflict)
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
